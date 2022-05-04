@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm David!</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h1 align="left">Hi 👋, I'm David!</h1>
+<h3 align="left">A passionate frontend developer from Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/daveterry76" target="blank"><img src="https://img.shields.io/twitter/follow/daveterry76?logo=twitter&style=for-the-badge" alt="daveterry76" /></a> </p>
 
