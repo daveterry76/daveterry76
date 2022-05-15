@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/daveterry76" target="blank"><img src="https://img.shields.io/twitter/follow/daveterry76?logo=twitter&style=for-the-badge" alt="daveterry76" /></a> </p>
 
-- 🔭 I’m currently working on [Motif Agency website](https://motif-agency.netlify.app/)
+- 🔭 I’m currently building with [HelixGade Technologies](http://helixgade.com//)
 
 - 👨‍💻 All of my projects are available at [https://daveterry.netlify.app/](https://daveterry.netlify.app/)
 
