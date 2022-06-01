@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **daviddappa760@gmail.com**
 
-- ⚡ Fun fact is that **In a love-hate relationship with JavaScript.**
+- ⚡ Fun fact is that I am **in a love-hate relationship with JavaScript.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
