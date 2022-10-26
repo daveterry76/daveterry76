@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently building with [HelixGade Technologies](http://helixgade.com//)
 
-- 👨‍💻 All of my projects are available at [https://daveterry.netlify.app/](https://daveterry.netlify.app/)
-
 - 📫 How to reach me **daviddappa760@gmail.com**
 
 - ⚡ Fun fact is that I am **in a love-hate relationship with JavaScript.**
