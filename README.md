@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/daveterry76" target="blank"><img src="https://img.shields.io/twitter/follow/daveterry76?logo=twitter&style=for-the-badge" alt="daveterry76" /></a> </p>
 
-- 🔭 I’m currently building with [HelixGade Technologies](http://helixgade.com//)
+- 🔭 I’m currently building with [Efortlex Limited](https://www.efortlex.com/)
 
 - 📫 How to reach me **daviddappa760@gmail.com**
 
